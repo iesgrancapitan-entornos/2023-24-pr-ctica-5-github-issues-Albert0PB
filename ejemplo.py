@@ -5,7 +5,7 @@ Author: Alberto Pérez Bernabeu
 """
 from random import randint
 
-while true:
+while True:
     n = randint(1, 10)
     if n = 7:
         print('Lucky number, Slevin!')
