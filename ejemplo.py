@@ -3,7 +3,7 @@ Programa en Python como ejemplo para Práctica 5 de Git en Entornos de Desarroll
 
 Author: Alberto Pérez Bernabeu
 """
-from random import rand int
+from random import randint
 
 while true:
     n = randint(1, 10)
